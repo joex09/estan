@@ -1,0 +1,1 @@
+web: gunicorn estanv2.wsgi:aplication --log-file -
